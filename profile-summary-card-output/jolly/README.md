@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/msdevsofts/msdevsofts/main/profile-summary-card-output/jolly/4-productive-time.svg)
+```
+
+    

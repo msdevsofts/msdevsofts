@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/msdevsofts/msdevsofts/main/profile-summary-card-output/city_lights/4-productive-time.svg)
+```
+
+    
